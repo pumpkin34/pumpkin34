@@ -1,0 +1,19 @@
+## 👋 Introduction
+
+
+
+
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/pumpkin34)
+
+Hi guys, I'm **I am Burak**. I am a Product Manager who is intertested in coding. I'm currently working on @Lifemote-Networks as a Product Manager and bootcamp student @kodluyoruz.  
+I have some works with **JavaScript**, **C#**, **Python** and **JAVA**.
+## 📫 Contact Me 
+
+✉️ [Email](mailto:burakalparsln@gmail.com) | 💬 [Issue](https://github.com/pumpkin34/pumpkin34/issues/me) 
+
+
+## 💻 Open Source Work Stats
+
+
+![pumpkin34's Github stats](https://github-readme-stats.vercel.app/api?username=pumpkin34&show_icons=true)
+
