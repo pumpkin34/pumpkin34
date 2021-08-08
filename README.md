@@ -5,7 +5,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/pumpkin34)
 
-Hi guys, I'm **Burak**. I am a Product Manager who is intertested in coding. I'm currently working @Lifemote as a Product Manager and bootcamp student @kodluyoruz.  
+Hi guys, I'm **Burak**. I am a Product Manager who is intertested in coding. I'm currently working @koinal as a Product Manager and bootcamp student @kodluyoruz.  
 I have some works with **JavaScript**, **C#**, **Python** and **JAVA**.
 ## 📫 Contact Me 
 
