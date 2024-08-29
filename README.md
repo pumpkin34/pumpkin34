@@ -7,7 +7,7 @@
 
 Hi guys, I'm **Burak**. I am a Senior Product Manager who is intertested in coding. I'm currently working @netmera as a Sr.Technical Product Manager.
 
-Formerly; Senior Product Manager @bitpace ,Product Manager @koinal.ioProduct Manager @lifemote, Associate Product Manager @v-count, Product Management Specialist @metglobal, Software Support Specialist @metglobal and completed @kodluyoruz JavaScript bootcamp.
+Formerly; Senior Product Manager @bitpace, Product Manager @koinal.io, Product Manager @lifemote, Associate Product Manager @v-count, Product Management Specialist @metglobal, Software Support Specialist @metglobal and completed @kodluyoruz JavaScript bootcamp.
 
 I have some works with **JavaScript**, **C#**, **Python** and **JAVA**.
 ## 📫 Contact Me 
