@@ -5,9 +5,9 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/pumpkin34)
 
-Hi guys, I'm **Burak**. I am a Product Manager who is intertested in coding. I'm currently working @koinal.io as a Product Manager.
+Hi guys, I'm **Burak**. I am a Senior Product Manager who is intertested in coding. I'm currently working @netmera as a Sr.Technical Product Manager.
 
-Formerly; Bootcamp student @kodluyoruz, Product Manager @lifemote, Associate Product Manager @v-count, Product Management Specialist @metglobal, Software Support Specialist @metglobal 
+Formerly; Senior Product Manager @bitpace ,Product Manager @koinal.ioProduct Manager @lifemote, Associate Product Manager @v-count, Product Management Specialist @metglobal, Software Support Specialist @metglobal and completed @kodluyoruz JavaScript bootcamp.
 
 I have some works with **JavaScript**, **C#**, **Python** and **JAVA**.
 ## 📫 Contact Me 
